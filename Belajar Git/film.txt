@@ -1,1 +1,5 @@
 coba ini gua edit di github, tapi kayanya kalau di pull mah bisa
+
+
+kan bener kalau di pull mah bisa, kebaca dari github ke lokal,,, coba gua ini push lagi
+penambahan lagi di file film
