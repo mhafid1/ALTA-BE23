@@ -1,0 +1,1 @@
+// menentukan bilangan prima
